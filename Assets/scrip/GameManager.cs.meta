@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fdcaaa3786da58c49aaeef90061dbd96
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bg: {instanceID: 0}
+  - col1: {fileID: 2454952135221998507, guid: f4aded9ce3c1d244aa46a3ef2742afc6, type: 3}
+  - piedra1: {fileID: 29757114338536963, guid: 0397b5f5d4c2dac43bfcc27473f71957, type: 3}
+  - piedra2: {fileID: 4280228681540336142, guid: cf39d1bbcb7671f489740a11e90e8c9e, type: 3}
+  - menuInicio: {instanceID: 0}
+  - menuGameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
